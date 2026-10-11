@@ -1,0 +1,420 @@
+[
+  {
+    "file": "eating_01.png",
+    "path": "/mnt/data/leafeon_split_sprites/eating_01.png",
+    "bbox": [
+      802,
+      506,
+      917,
+      646
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "eating_02.png",
+    "path": "/mnt/data/leafeon_split_sprites/eating_02.png",
+    "bbox": [
+      916,
+      493,
+      1015,
+      636
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "eating_03.png",
+    "path": "/mnt/data/leafeon_split_sprites/eating_03.png",
+    "bbox": [
+      1025,
+      490,
+      1141,
+      642
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "eating_04.png",
+    "path": "/mnt/data/leafeon_split_sprites/eating_04.png",
+    "bbox": [
+      1150,
+      513,
+      1260,
+      640
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "eating_05.png",
+    "path": "/mnt/data/leafeon_split_sprites/eating_05.png",
+    "bbox": [
+      1265,
+      514,
+      1383,
+      646
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "eating_06.png",
+    "path": "/mnt/data/leafeon_split_sprites/eating_06.png",
+    "bbox": [
+      1394,
+      527,
+      1497,
+      646
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "idle_01.png",
+    "path": "/mnt/data/leafeon_split_sprites/idle_01.png",
+    "bbox": [
+      49,
+      144,
+      159,
+      274
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "idle_02.png",
+    "path": "/mnt/data/leafeon_split_sprites/idle_02.png",
+    "bbox": [
+      167,
+      145,
+      273,
+      275
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "idle_03.png",
+    "path": "/mnt/data/leafeon_split_sprites/idle_03.png",
+    "bbox": [
+      278,
+      144,
+      382,
+      274
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "idle_04.png",
+    "path": "/mnt/data/leafeon_split_sprites/idle_04.png",
+    "bbox": [
+      388,
+      147,
+      492,
+      275
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "idle_05.png",
+    "path": "/mnt/data/leafeon_split_sprites/idle_05.png",
+    "bbox": [
+      502,
+      144,
+      596,
+      274
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "idle_06.png",
+    "path": "/mnt/data/leafeon_split_sprites/idle_06.png",
+    "bbox": [
+      603,
+      146,
+      701,
+      275
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_01.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_01.png",
+    "bbox": [
+      760,
+      132,
+      875,
+      240
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_02.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_02.png",
+    "bbox": [
+      885,
+      132,
+      1005,
+      240
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_03.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_03.png",
+    "bbox": [
+      1011,
+      132,
+      1112,
+      242
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_04.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_04.png",
+    "bbox": [
+      1130,
+      132,
+      1233,
+      240
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_05.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_05.png",
+    "bbox": [
+      1249,
+      132,
+      1351,
+      240
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_06.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_06.png",
+    "bbox": [
+      1373,
+      132,
+      1476,
+      230
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_07.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_07.png",
+    "bbox": [
+      761,
+      259,
+      875,
+      374
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_08.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_08.png",
+    "bbox": [
+      891,
+      265,
+      1006,
+      375
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_09.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_09.png",
+    "bbox": [
+      1010,
+      283,
+      1122,
+      377
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_10.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_10.png",
+    "bbox": [
+      1131,
+      264,
+      1242,
+      378
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "playing_11.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_11.png",
+    "bbox": [
+      1251,
+      267,
+      1366,
+      389
+    ],
+    "merged_components": 3
+  },
+  {
+    "file": "playing_12.png",
+    "path": "/mnt/data/leafeon_split_sprites/playing_12.png",
+    "bbox": [
+      1373,
+      265,
+      1497,
+      374
+    ],
+    "merged_components": 5
+  },
+  {
+    "file": "sleeping_01.png",
+    "path": "/mnt/data/leafeon_split_sprites/sleeping_01.png",
+    "bbox": [
+      42,
+      782,
+      167,
+      903
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "sleeping_02.png",
+    "path": "/mnt/data/leafeon_split_sprites/sleeping_02.png",
+    "bbox": [
+      185,
+      797,
+      305,
+      905
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "sleeping_03.png",
+    "path": "/mnt/data/leafeon_split_sprites/sleeping_03.png",
+    "bbox": [
+      322,
+      777,
+      477,
+      906
+    ],
+    "merged_components": 2
+  },
+  {
+    "file": "sleeping_04.png",
+    "path": "/mnt/data/leafeon_split_sprites/sleeping_04.png",
+    "bbox": [
+      460,
+      798,
+      584,
+      907
+    ],
+    "merged_components": 2
+  },
+  {
+    "file": "sleeping_05.png",
+    "path": "/mnt/data/leafeon_split_sprites/sleeping_05.png",
+    "bbox": [
+      604,
+      782,
+      735,
+      910
+    ],
+    "merged_components": 2
+  },
+  {
+    "file": "sleeping_06.png",
+    "path": "/mnt/data/leafeon_split_sprites/sleeping_06.png",
+    "bbox": [
+      747,
+      780,
+      894,
+      911
+    ],
+    "merged_components": 2
+  },
+  {
+    "file": "sleeping_07.png",
+    "path": "/mnt/data/leafeon_split_sprites/sleeping_07.png",
+    "bbox": [
+      908,
+      773,
+      1048,
+      916
+    ],
+    "merged_components": 2
+  },
+  {
+    "file": "studying_01.png",
+    "path": "/mnt/data/leafeon_split_sprites/studying_01.png",
+    "bbox": [
+      36,
+      465,
+      137,
+      610
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "studying_02.png",
+    "path": "/mnt/data/leafeon_split_sprites/studying_02.png",
+    "bbox": [
+      139,
+      469,
+      255,
+      602
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "studying_03.png",
+    "path": "/mnt/data/leafeon_split_sprites/studying_03.png",
+    "bbox": [
+      247,
+      469,
+      360,
+      599
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "studying_04.png",
+    "path": "/mnt/data/leafeon_split_sprites/studying_04.png",
+    "bbox": [
+      363,
+      473,
+      478,
+      599
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "studying_05.png",
+    "path": "/mnt/data/leafeon_split_sprites/studying_05.png",
+    "bbox": [
+      477,
+      461,
+      580,
+      601
+    ],
+    "merged_components": 1
+  },
+  {
+    "file": "studying_06.png",
+    "path": "/mnt/data/leafeon_split_sprites/studying_06.png",
+    "bbox": [
+      563,
+      450,
+      671,
+      628
+    ],
+    "merged_components": 2
+  },
+  {
+    "file": "studying_07.png",
+    "path": "/mnt/data/leafeon_split_sprites/studying_07.png",
+    "bbox": [
+      673,
+      491,
+      771,
+      610
+    ],
+    "merged_components": 1
+  }
+]
